@@ -24,6 +24,11 @@ The packages needed:
 - `statsmodels.api`
 
 
+Example
+-------
+For Phoenix Area:
+![Example 1](Median List Price by Zip Code Graphically.png)
+
 Reference
 --------- 
 Stephan Hügel
